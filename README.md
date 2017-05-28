@@ -21,9 +21,9 @@ awesome-cad支持以下工作:
 注意事项:
 
 
-- 代码尽量先在个人账号下存储，对于awesome-cad只提供链接和说明，以及运行注意事项等，保证项目整洁不混乱。
-- 所加内容尽量自己仔细看过
-- 添加内容采用以下规范
+1. 代码尽量先在个人账号下存储，对于awesome-cad只提供链接和说明，以及运行注意事项等，保证项目整洁不混乱。
+2. 所加内容尽量自己仔细看过
+3. 添加内容采用以下规范
 
 
 * Microsoft (Deep Residual Learning) [[Paper](http://arxiv.org/pdf/1512.03385v1.pdf)][[Slide](http://image-net.org/challenges/talks/ilsvrc2015_deep_residual_learning_kaiminghe.pdf)]
