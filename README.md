@@ -1,6 +1,9 @@
-# awesome-cad
-A Repository for Paper Reading and Code Sharing
+# awesome-cad : A Repository for Paper Reading and Code Sharing
 
+awesome-cad支持以下工作:
+- 新潮文章解读，附上链接，博客，代码
+- 技巧性强的或有趣工作的代码
+- 组会讨论的代码
 
 ------------------------------------
 如何将近期Paper Reading和可用代码及其解读添加进仓库
